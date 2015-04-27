@@ -2,6 +2,7 @@
 
 
 To get started download this repo and install veewee, em-winrm, and vagrant-windows from the Gemfile.
+Make sure you are using Ruby 1.9.3
 
 ```
 git clone git://github.com/hh/windows-fromscratch.git
